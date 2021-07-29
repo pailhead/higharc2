@@ -1,7 +1,6 @@
 # Higharc Computational Geometry Engineer Challenge
 
-
-Add link
+https://dusanbosnjak.com/test/higharc/comp/
 
 ```
 npm install
