@@ -40,3 +40,13 @@ The reasoning here was that even finding a center point and drawing some text (e
 - figured out the solution, then abandoned it, then came back to it :| I couldn't find a way to do this by just traversing the edges ignoring the angles. 
 - a method was used to find the normal from the linked article. I tried to cross edges  that weren't colinear and count the signs but this didn't work. 
 - the solution for alg3 involves a check for when the ray is passing through the vertex. I don't have a test for this, but it's possible to log a point at 0,0 on some of the shapes and create these conditions.
+
+## Diagrams
+
+### Polygon search
+
+![](ha%20triangles.png) 
+
+### Polygon fill
+
+![](polyfill.png)
